@@ -11,6 +11,8 @@ Programming is one of my biggest hobbies, and Rust is my favourite language!
 
 📍 Based in Alicante, Spain.
 
+---
+
 More in [my GitLab account!](https://gitlab.com/stevenreina/)
 
 You can visit my personal website [here!](https://stevenreina.com/) ⚡️
