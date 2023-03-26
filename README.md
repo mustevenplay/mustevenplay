@@ -3,6 +3,8 @@
 
 ### *Welcome to my GitHub personal space!* 👨‍💻
 
+---
+
 - #### About me
 
 I'm a junior web designer, developer, and a passionate individual for technology in all its forms and shapes.
