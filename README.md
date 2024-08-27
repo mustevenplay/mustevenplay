@@ -16,4 +16,5 @@ Programming is one of my biggest hobbies, and Rust is my favourite language!
 - #### Links
 
 More in [my GitLab account](https://gitlab.com/stevenreina/).
+
 You can visit my personal website [here!](https://stevenreina.com/) ⚡️
