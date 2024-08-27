@@ -11,10 +11,9 @@ I'm a junior web designer, developer, and a passionate individual for technology
 
 Programming is one of my biggest hobbies, and Rust is my favourite language!
 
-📍 Based in Alicante, Spain.
+📍 Based in Oslo, Norway.
 
 - #### Links
 
-More in [my GitLab account!](https://gitlab.com/stevenreina/)
-
+More in [my GitLab account](https://gitlab.com/stevenreina/).
 You can visit my personal website [here!](https://stevenreina.com/) ⚡️
